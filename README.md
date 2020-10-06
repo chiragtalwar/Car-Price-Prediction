@@ -18,5 +18,5 @@
 [![step5.png](https://i.postimg.cc/yd3HFC65/step5.png)](https://postimg.cc/JD8vLgkc)
 
 ### Step 5: Created an app using flask and deployed it on Heroku dashboard. 
-#### App Link: https://carsellingprice00.herokuapp.com/predict
+#### App Link: https://carsellingprice00.herokuapp.com/
 [![last.png](https://i.postimg.cc/9FbZ66Vs/last.png)](https://postimg.cc/rKdDWYD9)
